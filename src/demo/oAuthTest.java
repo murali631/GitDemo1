@@ -12,6 +12,10 @@ import pojo.Api;
 import pojo.GetCourse;
 
 public class oAuthTest {
+System.out.println("git update 1");
+System.out.println("git update 2");
+System.out.println("git update 3");
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
