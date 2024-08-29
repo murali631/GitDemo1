@@ -39,7 +39,7 @@ public class oAuthTest {
 	System.out.println(gc.getInstructor());
 	System.out.println(gc.getCourses().getApi().get(1).getCourseTitle());
 	
-	
+	System.out.println("git update");
 	List<Api> apiCourses=gc.getCourses().getApi();
 	for(int i=0;i<apiCourses.size();i++)
 	{
