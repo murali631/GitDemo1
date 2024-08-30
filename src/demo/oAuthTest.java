@@ -15,6 +15,11 @@ public class oAuthTest {
 	System.out.println("branch update 1");
 	System.out.println("branch update 2");
 	System.out.println("branch update 3");
+
+	System.out.println("branch update 4");
+	System.out.println("branch update 5");
+	System.out.println("branch update 6");
+
 System.out.println("git update 1");
 System.out.println("git update 2");
 System.out.println("git update 3");
