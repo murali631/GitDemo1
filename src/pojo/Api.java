@@ -17,6 +17,8 @@ public class Api {
 		this.price = price;
 	}
 
+	System.out.println("Branch clone 1");
+	System.out.println("Branch  clone 1i");
 	
 	System.out.println("Post clone 1");
 	System.out.println("Post clone 2");
@@ -25,4 +27,8 @@ public class Api {
 	System.out.println("Post clone 4");
 	System.out.println("Post clone 5");
 	
+	
+	public String Branch1method() {
+		return price;
+	}
 }

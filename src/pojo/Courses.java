@@ -24,9 +24,13 @@ public class Courses {
 	public void setMobile(List<Mobile> mobile) {
 		this.mobile = mobile;
 		System.out.println("Post clone 6");
+		
+		System.out.println("Branch 1i");
 	}
 
-
+	public void branchcourse(List<Api> api) {
+		this.api = api;
+	}
 	
 
 }
