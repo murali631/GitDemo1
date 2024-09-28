@@ -18,6 +18,7 @@ public class Api {
 	}
 
 	
-	
+	System.out.println("Post clone 1");
+	System.out.println("Post clone 2");
 	
 }
