@@ -21,4 +21,8 @@ public class Api {
 	System.out.println("Post clone 1");
 	System.out.println("Post clone 2");
 	
+	System.out.println("Post clone 3");
+	System.out.println("Post clone 4");
+	System.out.println("Post clone 5");
+	
 }
