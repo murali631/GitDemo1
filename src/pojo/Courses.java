@@ -23,6 +23,7 @@ public class Courses {
 	}
 	public void setMobile(List<Mobile> mobile) {
 		this.mobile = mobile;
+		System.out.println("Post clone 6");
 	}
 
 
