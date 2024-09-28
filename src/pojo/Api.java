@@ -16,7 +16,8 @@ public class Api {
 	public void setPrice(String price) {
 		this.price = price;
 	}
-
+	System.out.println("Branch clone 1iii-Gitstuff push");
+	System.out.println("Branch clone 1iv-Gitstuff push");
 	System.out.println("Branch clone 1");
 	System.out.println("Branch  clone 1i");
 	
@@ -30,5 +31,9 @@ public class Api {
 	
 	public String Branch1method() {
 		return price;
+		
 	}
+	
+	public String Branch1pushfromgitstuffmethod() {
+		return price;
 }

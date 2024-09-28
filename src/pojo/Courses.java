@@ -32,5 +32,9 @@ public class Courses {
 		this.api = api;
 	}
 	
-
+	public void branch1pushfromgitstuffcourse(List<Api> api) {
+		this.api = api;
+	}
+	System.out.println("Branch clone 1iii-Gitstuff push");
+	System.out.println("Branch clone 1iv-Gitstuff push");
 }
